@@ -1,4 +1,4 @@
-# ExpressJS Authentication Template + jwt and Passport.js
+# Express Jwt Passport Mongoose Authentication Template
 This repository serves as a template for developing user authentication service on ExpressJS using JWT and Passport.js.
 This project store user data on MongoDB Atlas.
 
