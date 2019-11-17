@@ -1,5 +1,3 @@
-// https://www.freecodecamp.org/news/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e/
-
 const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
@@ -31,8 +29,6 @@ if (!isProduction) {
   app.use(errorHandler());
 }
 
-// const port = process.env.PORT || 3000;
-// const dbPort = process.env.DB_PORT || 27017;
 const dbUrl = process.env.MONGODB_URL;
 // const dbCollection = process.env.DB_COLLECTION || "auth-test";
 
