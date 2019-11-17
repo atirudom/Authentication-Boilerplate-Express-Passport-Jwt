@@ -1,5 +1,6 @@
 # ExpressJS Authentication Template + jwt and Passport.js
-This repository serves as a template for developing user authentication service on Express using JWT and Passportjs with user data on MongoDB Atlas
+This repository serves as a template for developing user authentication service on ExpressJS using JWT and Passport.js.
+This project store user data on MongoDB Atlas.
 
 Main features are: 
 * Login 
@@ -11,7 +12,7 @@ Main features are:
 
 ### Packages
 
-Main packages used in this template
+Main packages used in this template are:
 * [Express.js](https://github.com/expressjs/express) - Node.js framework
 * [Passport.js](http://www.passportjs.org/) - Authentication library
 * [JWT (JSON Web Tokens)](https://jwt.io/) - Secure Web Tokens
@@ -22,9 +23,10 @@ Main packages used in this template
 
 ### Running the app
 
-To run the app (dev. mode)
+Install all dependencies and run the app (dev. mode)
 
 ```
+npm i
 npm start
 ```
 
@@ -37,10 +39,12 @@ npm start
 ## Authors
 
 * **Antonio Erdeljac** - *Initial work* - [Passport-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
-* **Atirach Intaraudom** - *Owner of this repository* - Express-Passport-Jwt-Authentication-Template
+* **Atirach Intaraudom** - *Owner of this repository* - [Express-Passport-Jwt-Authentication-Template](https://github.com/atirudom/express-passport-jwt-authentication)
 
 ## Acknowledgments
 
 * The initial work was created as a tutorial in Antonio's [Medium article](https://medium.com/p/4a56ed18e81e)
 * This repository was created as an authentication template for personal future work and for public uses of authentication template.
-* Please create an issue thread for any questions.
+* Please create an issue thread for any questions even if you are backend newbie. <3
+
+Atirach Intaraudom
