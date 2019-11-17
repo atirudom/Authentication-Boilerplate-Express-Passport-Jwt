@@ -48,4 +48,4 @@ npm start
 * Please create an issue thread for any questions even if you are backend newbie. <3
 
 ## Signature
-Created by Atirach Intaraudom - [atirudom](https://github.com/atirudom)
+Created by [atirudom](https://github.com/atirudom)
