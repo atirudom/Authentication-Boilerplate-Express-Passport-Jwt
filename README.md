@@ -47,4 +47,5 @@ npm start
 * This repository was created as an authentication template for personal future work and for public uses of authentication template.
 * Please create an issue thread for any questions even if you are backend newbie. <3
 
-Atirach Intaraudom
+## Signature
+Created by Atirach Intaraudom (atirudom)
