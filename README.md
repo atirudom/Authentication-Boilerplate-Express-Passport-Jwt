@@ -14,7 +14,7 @@ Main features are:
 * Login 
 * Logout 
 * Registration 
-* Check if the given email exists (for when client wants to check) 
+* Check if the given email exists
 * Check if the current user is logged in. 
 
 
