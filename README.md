@@ -1,6 +1,14 @@
-# Express Jwt Passport Mongoose Authentication Template
+# Express Authentication Template using Jwt+Passportjs+Mongoose 
+This template introduces a practical and simple approach to initialize user authentication service which can be done simply by following 3 basic steps: 
+* (1) install packages 
+* (2) set your authorized database url to .env (see app.js for required name)
+* (3) run start and there you got a charming user authentication server!
+* (4) Since view is not implemented, Postman is recommended for your observation.
+
 This repository serves as a template for developing user authentication service on ExpressJS using JWT and Passport.js.
-This project store user data on MongoDB Atlas.
+The project stores user data on MongoDB Atlas and applies Mongoose for database modelling.
+
+*Please create an issue thread for any questions even if you are backend newbie. <3
 
 Main features are: 
 * Login 
