@@ -1,4 +1,4 @@
-# Express Authentication Template using Jwt Passportjs and Mongoose 
+# Express Template for User Authentication using Jwt Passportjs and Mongoose
 This template introduces a practical and simple approach to initialize user authentication service which can be done simply by following 3 basic steps: 
 * (1) install packages 
 * (2) set your authorized database url to .env (see app.js for required name)
