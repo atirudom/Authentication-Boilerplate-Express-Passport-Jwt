@@ -10,7 +10,9 @@ The project stores user data on MongoDB Atlas and applies Mongoose for database 
 
 *Please create an issue thread for any questions even if you are backend newbie. <3
 
-Main features are: 
+### Main features
+
+This template includes 5 basic operations that every user authentication service needs:
 * Login 
 * Logout 
 * Registration 
