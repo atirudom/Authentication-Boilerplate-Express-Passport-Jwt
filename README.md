@@ -49,7 +49,7 @@ npm start
 ## Authors
 
 * **Antonio Erdeljac** - *Initial work* - [Passport-Tutorial](https://github.com/AntonioErdeljac/Blog-Tutorial)
-* **Atirach Intaraudom** - *Owner of this repository* - [Express-Passport-Jwt-Authentication-Template](https://github.com/atirudom/Express-Passport-Jwt-Authentication-Template)
+* **Atirudom** - *Owner of this repository* - [Express-Passport-Jwt-Authentication-Template](https://github.com/atirudom/Express-Passport-Jwt-Authentication-Template)
 
 ## Acknowledgments
 
