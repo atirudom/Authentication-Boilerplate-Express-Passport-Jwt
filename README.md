@@ -3,7 +3,7 @@ This template introduces a practical and simple approach to initialize user auth
 * (1) install packages 
 * (2) set your authorized database url to .env (see app.js for required name)
 * (3) run start and there you got a charming user authentication server!
-* (4) Since view is not implemented, Postman is recommended for your observation.
+* (Bonus) Since view is not implemented, Postman is recommended for your observation.
 
 This repository serves as a template for developing user authentication service on ExpressJS using JWT and Passport.js.
 The project stores user data on MongoDB Atlas and applies Mongoose for database modelling.
